@@ -183,7 +183,7 @@ We recommend rewriting a collection script tailored to your setup. Useful refere
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@INPROCEEDINGS{11127348,
+@INPROCEEDINGS{fan2025neugrasp,
   author={Fan, Qingyu and Cai, Yinghao and Li, Chao and He, Wenzhe and Zheng, Xudong and Lu, Tao and Liang, Bin and Wang, Shuo},
   booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
   title={NeuGrasp: Generalizable Neural Surface Reconstruction with Background Priors for Material-Agnostic Object Grasp Detection}, 
