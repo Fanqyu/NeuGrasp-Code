@@ -183,11 +183,16 @@ We recommend rewriting a collection script tailored to your setup. Useful refere
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@inproceedings{fan2025neugrasp,
-  title={NeuGrasp: Generalizable Neural Surface Reconstruction with Background Priors for Material-Agnostic Object Grasp Detection},
+@INPROCEEDINGS{11127348,
   author={Fan, Qingyu and Cai, Yinghao and Li, Chao and He, Wenzhe and Zheng, Xudong and Lu, Tao and Liang, Bin and Wang, Shuo},
-  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
-  organization={IEEE}
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={NeuGrasp: Generalizable Neural Surface Reconstruction with Background Priors for Material-Agnostic Object Grasp Detection}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={3197-3203},
+  keywords={Surface reconstruction;Aggregates;Refining;Focusing;Grasping;Reconstruction algorithms;Transformers;Feature extraction;Encoding;Robots},
+  doi={10.1109/ICRA55743.2025.11127348}
 }
 ```
 
